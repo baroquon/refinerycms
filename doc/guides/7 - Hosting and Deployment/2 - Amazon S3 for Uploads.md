@@ -5,7 +5,7 @@ Hosting your app's files on Amazon S3 is a popular option for many, especially i
 
 * Enable and configure Refinery to store files and images on Amazon S3
 
-__NOTE__: If you are using S3 in combination with Heroku please refer to the [Heroku guide](/guides/heroku) for more information.
+__NOTE__: If you are using S3 in combination with Heroku please refer to the [Heroku guide](heroku) for more information.
 
 ## Preparation
 
